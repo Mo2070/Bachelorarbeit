@@ -1,0 +1,10 @@
+.venv/
+.claude/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Do not publish copyrighted literature PDFs
+04_Literature/
