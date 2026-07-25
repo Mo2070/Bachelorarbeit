@@ -5,5 +5,3 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Do not publish copyrighted literature PDFs
-04_Literature/
